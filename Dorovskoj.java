@@ -10,11 +10,11 @@ public class SimpleCalculator {
         result = result + value;
     }
 
-    public void subtract(double value) {
+    public void subtract(double value) { 
         result = result - value;
     }
 
-    public void multiply(double value) {
+    public void multiply(double value) { //4 комит
         result = result * value;
     }
 
