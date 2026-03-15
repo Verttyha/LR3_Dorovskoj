@@ -6,7 +6,7 @@ public class SimpleCalculator {
         result = 0;
     }
 
-    public void add(double value) {
+    public void add(double value) { //2 комит
         result = result + value;
     }
 
