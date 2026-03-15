@@ -6,15 +6,16 @@ public class SimpleCalculator {
         result = 0;
     }
 
-    public void add(double value) {
+    public void add(double value) { //2 комит
         result = result + value;
     }
+
 
     public void subtract(double value) { //3 комит
         result = result - value;
     }
 
-    public void multiply(double value) {
+    public void multiply(double value) { //4 комит
         result = result * value;
     }
 
