@@ -10,7 +10,7 @@ public class SimpleCalculator {
         result = result + value;
     }
 
-    public void subtract(double value) {
+    public void subtract(double value) { //3 комит
         result = result - value;
     }
 
