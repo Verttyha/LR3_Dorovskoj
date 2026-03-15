@@ -8,5 +8,7 @@ public class hramchenkov
     {
         // Вывод на экран строки "Привет" и переход на новую строку
         System.out.println("Git");
+		System.out.println("Git#1 коммит в свою ветку ");
+		System.out.println("Git#2 коммит в свою ветку ");
     }
 }
